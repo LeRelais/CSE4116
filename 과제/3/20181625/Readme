@@ -1,0 +1,15 @@
+CSE4116 과제 3 Readme
+
+Device 이름 : /devstopwatch
+Major number : 242 
+
+제출 파일 목록:
+    /app/hw3.c
+    /app/Makefile
+    /module/hw3_driver.c
+    /module/Makefile
+    /Makefile
+    /Readme
+
+- 압축 해제 후 상위 폴더인 학번(20181625) 폴더에서 make를 하는 것으로 app와 module의 hw3.c, hw3_driver.c의 compile 가능
+- 상위 폴더에서 make push를 하는 것으로 make 수행 및 compile된 파일들을 보드 상으로 push할 수 있음
